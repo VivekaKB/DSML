@@ -56,10 +56,6 @@ plt.ylabel('Salary')
 plt.show()
 
 
-# In[41]:
-
-
-y_pred = regressor.predict(x_test)
 
 
 # In[ ]:
